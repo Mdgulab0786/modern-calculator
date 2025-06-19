@@ -15,7 +15,7 @@ body {
 }
 
 .calculator {
-  background: #c420c1;
+  background: #222222;
   border-radius: 20px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
   padding: 20px 25px;
@@ -55,7 +55,7 @@ button {
 }
 
 button:hover {
-  background: #ff1515;
+  background: #555;
   transform: translateY(-2px);
 }
 
